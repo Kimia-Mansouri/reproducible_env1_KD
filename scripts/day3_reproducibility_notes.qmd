@@ -1,5 +1,25 @@
 ---
 title: "day3_reproducibility_notes"
+author: "Krish"
 format: html
+editor: visual
+toc: true
 ---
 
+## R Environment Setup
+
+I am trying to learn somthing
+
+```{r}
+#| eval: false
+```
+
+## Conda Environment Setup
+
+## Step 1: Searching for FastQC
+
+This will activate the conda FastQC
+
+```{bash}
+#| eval: false
+```
