@@ -29,3 +29,9 @@ This is second bash chunk
 ```{bash}
 #| eval: false
 ```
+
+Now creating third bash chunk
+
+```{bash}
+#| eval: false
+```
