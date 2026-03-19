@@ -23,3 +23,9 @@ This will activate the conda FastQC
 ```{bash}
 #| eval: false
 ```
+
+This is second bash chunk
+
+```{bash}
+#| eval: false
+```
